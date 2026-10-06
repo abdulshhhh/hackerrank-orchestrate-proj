@@ -1,0 +1,941 @@
+{
+  "cache_disagreements": [],
+  "images": [
+    {
+      "amount": "4365000",
+      "candidates": [
+        {
+          "amount": "4780800",
+          "currency": "IDR",
+          "label": "Subtotal Earnings",
+          "source_line_text": "Subtotal Earnings : IDR 4,780,800",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "4780800",
+          "currency": "IDR",
+          "label": "Total Earnings",
+          "source_line_text": "Total Earnings : IDR 4,780,800",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "415800",
+          "currency": "IDR",
+          "label": "Subtotal Deductions",
+          "source_line_text": "Subtotal Deductions : IDR 415,800",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "415800",
+          "currency": "IDR",
+          "label": "Total Deductions",
+          "source_line_text": "Total Deductions : IDR 415,800",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "4365000",
+          "currency": "IDR",
+          "label": "Net Pay",
+          "source_line_text": "Net Pay : IDR 4,365,000",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "4365000",
+          "currency": "IDR",
+          "label": "Transferred amount",
+          "source_line_text": "Transferred to :Bank Central Asia - 2582373290 - M NURHUDA SY : IDR 4,365,000",
+          "valid_from": null,
+          "valid_through": null
+        }
+      ],
+      "confidence": "0.97",
+      "currency": "IDR",
+      "disagreement": null,
+      "image_id": "image_01",
+      "line_items": [
+        {
+          "amount": "4500000",
+          "source_line_text": "Salary : IDR 4,500,000"
+        },
+        {
+          "amount": "90000",
+          "source_line_text": "Allowance BPJS Pen 2% Company : IDR 90,000"
+        },
+        {
+          "amount": "166500",
+          "source_line_text": "Allowance JHT 3.7% : IDR 166,500"
+        },
+        {
+          "amount": "10800",
+          "source_line_text": "Allowance JKK 0.24% : IDR 10,800"
+        },
+        {
+          "amount": "13500",
+          "source_line_text": "Allowance JKM 0.3% : IDR 13,500"
+        },
+        {
+          "amount": "90000",
+          "source_line_text": "Deduction BPJS Pen 2% Company : IDR 90,000"
+        },
+        {
+          "amount": "45000",
+          "source_line_text": "Deduction BPJS Pen 1% Employee : IDR 45,000"
+        },
+        {
+          "amount": "166500",
+          "source_line_text": "Deduction JHT 3.7% : IDR 166,500"
+        },
+        {
+          "amount": "90000",
+          "source_line_text": "Deduction JHT 2% Employee : IDR 90,000"
+        },
+        {
+          "amount": "10800",
+          "source_line_text": "Deduction JKK 0.24% : IDR 10,800"
+        },
+        {
+          "amount": "13500",
+          "source_line_text": "Deduction JKM 0.3% : IDR 13,500"
+        }
+      ],
+      "resolution": "literal_total",
+      "sha256": "f37b40e6af42c664846057252cac89ad41b7d029dfe8dacff2db8cceb79fa5ba",
+      "source_line_text": "Net Pay : IDR 4,365,000",
+      "stated_total": "4,365,000",
+      "truncated_source": false
+    },
+    {
+      "amount": "100000",
+      "currency": "INR",
+      "image_id": "image_02",
+      "sha256": "ccd779e5382b1bcfacfb47d4ccf346ffd667a34c8b94d0cfd48aa4a609bd117d"
+    },
+    {
+      "amount": "41272.00",
+      "candidates": [
+        {
+          "amount": "41272.0",
+          "currency": "INR",
+          "label": "Net Amount",
+          "source_line_text": "Net Amount: 41272.0",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "41272.00",
+          "currency": "INR",
+          "label": "Cash Paid",
+          "source_line_text": "Cash Paid: 41272.00",
+          "valid_from": null,
+          "valid_through": null
+        }
+      ],
+      "confidence": "0.95",
+      "currency": "INR",
+      "disagreement": null,
+      "image_id": "image_03",
+      "line_items": [
+        {
+          "amount": "5800.00",
+          "source_line_text": "1.Coke Die.. 5PC 1160.00 1160.00 5800.00"
+        },
+        {
+          "amount": "750.00",
+          "source_line_text": "2.pulpy or.. 1PC 750.00 750.00 750.00"
+        },
+        {
+          "amount": "13920.00",
+          "source_line_text": "3.the whol.. 29PC 480.00 480.00 13920.00"
+        },
+        {
+          "amount": "4800.00",
+          "source_line_text": "4.Rite Bit.. 10PC 480.00 480.00 4800.00"
+        },
+        {
+          "amount": "2500.00",
+          "source_line_text": "5.Ocean Fr.. 1PC 2500.00 2500.00 2500.00"
+        },
+        {
+          "amount": "2152.00",
+          "source_line_text": "6.ferrero .. 8PC 269.00 269.00 2152.00"
+        },
+        {
+          "amount": "750.00",
+          "source_line_text": "7.munch 3PC 250.00 250.00 750.00"
+        },
+        {
+          "amount": "540.00",
+          "source_line_text": "8.5 star 2PC 270.00 270.00 540.00"
+        },
+        {
+          "amount": "1690.00",
+          "source_line_text": "9.dark fan.. 5PC 338.00 338.00 1690.00"
+        },
+        {
+          "amount": "7290.00",
+          "source_line_text": "10.Butter .. 9PC 810.00 810.00 7290.00"
+        },
+        {
+          "amount": "1080.00",
+          "source_line_text": "11.dairy m.. 3PC 360.00 360.00 1080.00"
+        }
+      ],
+      "resolution": "line_item_sum",
+      "sha256": "e5fb0bbcda6cc06f8ea95e32e45d4c76acd8c594f4b02ff0d78e6006e103ee4d",
+      "source_line_text": "1.Coke Die.. 5PC 1160.00 1160.00 5800.00 | 2.pulpy or.. 1PC 750.00 750.00 750.00 | 3.the whol.. 29PC 480.00 480.00 13920.00 | 4.Rite Bit.. 10PC 480.00 480.00 4800.00 | 5.Ocean Fr.. 1PC 2500.00 2500.00 2500.00 | 6.ferrero .. 8PC 269.00 269.00 2152.00 | 7.munch 3PC 250.00 250.00 750.00 | 8.5 star 2PC 270.00 270.00 540.00 | 9.dark fan.. 5PC 338.00 338.00 1690.00 | 10.Butter .. 9PC 810.00 810.00 7290.00 | 11.dairy m.. 3PC 360.00 360.00 1080.00",
+      "stated_total": "41272.0",
+      "truncated_source": false
+    },
+    {
+      "amount": "2854.0",
+      "candidates": [
+        {
+          "amount": "2854.00",
+          "currency": "INR",
+          "label": "Item Bill",
+          "source_line_text": "Item Bill \u20b92854.00",
+          "valid_from": null,
+          "valid_through": null
+        }
+      ],
+      "confidence": "0.6",
+      "currency": "INR",
+      "disagreement": null,
+      "image_id": "image_04",
+      "line_items": [
+        {
+          "amount": "95.0",
+          "source_line_text": "1 x [Combo] Nissin Cup Noodles Mazedaar Masala \u20b995.0"
+        },
+        {
+          "amount": "531.0",
+          "source_line_text": "1 x The Whole Truth 20G Protein Bars No Added\u2026 \u20b9531.0"
+        },
+        {
+          "amount": "0",
+          "source_line_text": "1 x Flyer - Nubu \u20b90"
+        },
+        {
+          "amount": "186.0",
+          "source_line_text": "1 x [Combo] The Whole Truth 13G Protein Millet Bar\u2026 \u20b9186.0"
+        },
+        {
+          "amount": "122.0",
+          "source_line_text": "1 x [Combo] O'Cean Fruit Water Mango & Passion\u2026 \u20b9122.0"
+        },
+        {
+          "amount": "464.0",
+          "source_line_text": "2 x [Combo] The Whole Truth Double Cocoa Prote\u2026 \u20b9464.0"
+        },
+        {
+          "amount": "184.0",
+          "source_line_text": "1 x [Combo] The Whole Truth Almond Choco Fudg\u2026 \u20b9184.0"
+        },
+        {
+          "amount": "144.0",
+          "source_line_text": "3 x Nissin Cup Noodles Mazedaar Masala \u20b9144.0"
+        },
+        {
+          "amount": "75.0",
+          "source_line_text": "3 x Wickedgud Instant Masala Cup Noodles \u20b975.0"
+        },
+        {
+          "amount": "366.0",
+          "source_line_text": "3 x [Combo] O'Cean Peach & Passion Fruit Juice\u2026 \u20b9366.0"
+        },
+        {
+          "amount": "190.0",
+          "source_line_text": "1 x [Combo] The Whole Truth Protein Bar Orange\u2026 \u20b9190.0"
+        },
+        {
+          "amount": "121.0",
+          "source_line_text": "1 x The Whole Truth Protein Bar Hazelnut Cocoa No\u2026 \u20b9121.0"
+        },
+        {
+          "amount": "376.0",
+          "source_line_text": "2 x [Combo] Nissin Cup Noodles Spiced Chicken \u20b9376.0"
+        }
+      ],
+      "resolution": "truncated_line_item_sum",
+      "sha256": "281e7f1e7bd1f98fbd53cde1381977373e610e6634b11c98098000001ff10f0c",
+      "source_line_text": "1 x [Combo] Nissin Cup Noodles Mazedaar Masala \u20b995.0 | 1 x The Whole Truth 20G Protein Bars No Added\u2026 \u20b9531.0 | 1 x Flyer - Nubu \u20b90 | 1 x [Combo] The Whole Truth 13G Protein Millet Bar\u2026 \u20b9186.0 | 1 x [Combo] O'Cean Fruit Water Mango & Passion\u2026 \u20b9122.0 | 2 x [Combo] The Whole Truth Double Cocoa Prote\u2026 \u20b9464.0 | 1 x [Combo] The Whole Truth Almond Choco Fudg\u2026 \u20b9184.0 | 3 x Nissin Cup Noodles Mazedaar Masala \u20b9144.0 | 3 x Wickedgud Instant Masala Cup Noodles \u20b975.0 | 3 x [Combo] O'Cean Peach & Passion Fruit Juice\u2026 \u20b9366.0 | 1 x [Combo] The Whole Truth Protein Bar Orange\u2026 \u20b9190.0 | 1 x The Whole Truth Protein Bar Hazelnut Cocoa No\u2026 \u20b9121.0 | 2 x [Combo] Nissin Cup Noodles Spiced Chicken \u20b9376.0",
+      "stated_total": "2854.00",
+      "truncated_source": true
+    },
+    {
+      "amount": "822.05",
+      "candidates": [
+        {
+          "amount": "704.05",
+          "currency": "INR",
+          "label": "Amount due till 06-Feb-2026",
+          "source_line_text": "Amount due till 06-Feb-2026 = 704.05",
+          "valid_from": null,
+          "valid_through": "2026-02-06"
+        },
+        {
+          "amount": "822.05",
+          "currency": "INR",
+          "label": "Amount due after 06-Feb-2026",
+          "source_line_text": "Amount due after 06-Feb-2026 = 822.05",
+          "valid_from": "2026-02-07",
+          "valid_through": null
+        },
+        {
+          "amount": "704.05",
+          "currency": "INR",
+          "label": "This month's charges Total",
+          "source_line_text": "Total (\u20b9) 704.05",
+          "valid_from": null,
+          "valid_through": null
+        }
+      ],
+      "confidence": "0.97",
+      "currency": "INR",
+      "disagreement": null,
+      "image_id": "image_05",
+      "line_items": [],
+      "resolution": "settlement_date_window",
+      "sha256": "9abcda5647afb3dcdf91613253ac0160bd722333af33a4b952dfc96fea6ff97b",
+      "source_line_text": "Amount due after 06-Feb-2026 = 822.05",
+      "stated_total": "704.05",
+      "truncated_source": false
+    },
+    {
+      "amount": "1995.00",
+      "candidates": [
+        {
+          "amount": "1995.00",
+          "currency": "INR",
+          "label": "Total",
+          "source_line_text": "Total | 7 | | 47.49 | | 47.49 | | | 1995.00",
+          "valid_from": null,
+          "valid_through": null
+        }
+      ],
+      "confidence": "0.97",
+      "currency": "INR",
+      "disagreement": null,
+      "image_id": "image_06",
+      "line_items": [
+        {
+          "amount": "565.00",
+          "source_line_text": "1 | The Whole Truth Almond Raisin 55% Dark Chocolate Bar(Pack) | 310.00 | 27.50 | 2 | 538.10 | 2.50 | 13.45 | 2.50 | 13.45 | 0.00 | 0.00 | 565.00"
+        },
+        {
+          "amount": "3.13",
+          "source_line_text": "Delivery and other charges | - | - | - | 2.98 | 2.50 | 0.07 | 2.50 | 0.07 | 0 | 0.00 | 3.13"
+        },
+        {
+          "amount": "552.00",
+          "source_line_text": "2 | The Whole Truth Rich 71% Dark Chocolate Bar(Pack) | 310.00 | 34.00 | 2 | 525.71 | 2.50 | 13.14 | 2.50 | 13.14 | 0.00 | 0.00 | 552.00"
+        },
+        {
+          "amount": "3.06",
+          "source_line_text": "Delivery and other charges | - | - | - | 2.91 | 2.50 | 0.07 | 2.50 | 0.07 | 0 | 0.00 | 3.06"
+        },
+        {
+          "amount": "289.00",
+          "source_line_text": "3 | The Whole Truth Almond Raisin 55% Dark Chocolate Bar(Pack) | 310.00 | 21.00 | 1 | 275.24 | 2.50 | 6.88 | 2.50 | 6.88 | 0.00 | 0.00 | 289.00"
+        },
+        {
+          "amount": "1.60",
+          "source_line_text": "Delivery and other charges | - | - | - | 1.53 | 2.50 | 0.04 | 2.50 | 0.04 | 0 | 0.00 | 1.60"
+        },
+        {
+          "amount": "289.00",
+          "source_line_text": "4 | The Whole Truth Rich 55% Dark Chocolate Bar(Pack) | 310.00 | 21.00 | 1 | 275.24 | 2.50 | 6.88 | 2.50 | 6.88 | 0.00 | 0.00 | 289.00"
+        },
+        {
+          "amount": "1.60",
+          "source_line_text": "Delivery and other charges | - | - | - | 1.53 | 2.50 | 0.04 | 2.50 | 0.04 | 0 | 0.00 | 1.60"
+        },
+        {
+          "amount": "289.00",
+          "source_line_text": "5 | The Whole Truth Sea Salt 71% Dark Chocolate Bar(Pack) | 310.00 | 21.00 | 1 | 275.24 | 2.50 | 6.88 | 2.50 | 6.88 | 0.00 | 0.00 | 289.00"
+        },
+        {
+          "amount": "1.60",
+          "source_line_text": "Delivery and other charges | - | - | - | 1.53 | 2.50 | 0.04 | 2.50 | 0.04 | 0 | 0.00 | 1.60"
+        }
+      ],
+      "resolution": "literal_total",
+      "sha256": "9055551fbe5940feb01b947e1f18ccfed093192d103b1e930a56df0ea7cd3cb4",
+      "source_line_text": "Total | 7 | | 47.49 | | 47.49 | | | 1995.00",
+      "stated_total": "1995.00",
+      "truncated_source": false
+    },
+    {
+      "amount": "8528",
+      "candidates": [
+        {
+          "amount": "8122.00",
+          "currency": "INR",
+          "label": "SubTotal",
+          "source_line_text": "SubTotal : 8122.00",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "203.05",
+          "currency": "INR",
+          "label": "SGST 2.50%",
+          "source_line_text": "SGST 2.50 % : 203.05",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "203.05",
+          "currency": "INR",
+          "label": "CGST 2.50%",
+          "source_line_text": "CGST 2.50 % : 203.05",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "8528.10",
+          "currency": "INR",
+          "label": "Total",
+          "source_line_text": "Total : 8528.10",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "8528",
+          "currency": "INR",
+          "label": "Grand Total (RS)",
+          "source_line_text": "Grand Total (RS) : 8528",
+          "valid_from": null,
+          "valid_through": null
+        }
+      ],
+      "confidence": "0.95",
+      "currency": "INR",
+      "disagreement": null,
+      "image_id": "image_07",
+      "line_items": [],
+      "resolution": "labelled_final_total",
+      "sha256": "f6d30a74355224c0b5cda2d7f96399a7b1a0afe4f9fe59ea048bbecb1a21311e",
+      "source_line_text": "Grand Total (RS) : 8528",
+      "stated_total": "8528.10",
+      "truncated_source": false
+    },
+    {
+      "amount": "15339.00",
+      "candidates": [
+        {
+          "amount": "13880.00",
+          "currency": "INR",
+          "label": "Maintenance - April to June-2026 maintenance - calculation: (1720.0 SQFT) * (8.07 per SQFT for 3 Month(s))",
+          "source_line_text": "Maintenance - April to June-2026 maintenance - calculation: (1720.0 SQFT) * (8.07 per SQFT for 3 Month(s))    24-07-2026   6455   30-08-2026   13,880.00   13,880.00",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "1050.00",
+          "currency": "INR",
+          "label": "Club House Charges - April to June-2026",
+          "source_line_text": "Club House Charges - April to June-2026   24-07-2026   6455   30-08-2026   1,050.00   1,050.00",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "409.00",
+          "currency": "INR",
+          "label": "Infrastructure Expenses (Compound wall fencing, fabrication etc.) - (curtain's dry clean, Phase-2 open area painting, fabrication work ,Installed mat's for floor and lifts' )",
+          "source_line_text": "Infrastructure Expenses (Compound wall fencing, fabrication etc.) - (curtain's dry clean, Phase-2 open area painting, fabrication work ,Installed mat's for floor and lifts' )   24-07-2026   6455   30-08-2026   409.00   409.00",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "15339.00",
+          "currency": "INR",
+          "label": "Total Amount Received",
+          "source_line_text": "Total Amount Received \u20b9 15,339.00",
+          "valid_from": null,
+          "valid_through": null
+        }
+      ],
+      "confidence": "0.98",
+      "currency": "INR",
+      "disagreement": null,
+      "image_id": "image_08",
+      "line_items": [
+        {
+          "amount": "13880.00",
+          "source_line_text": "Maintenance - April to June-2026 maintenance - calculation: (1720.0 SQFT) * (8.07 per SQFT for 3 Month(s))    24-07-2026   6455   30-08-2026   13,880.00   13,880.00"
+        },
+        {
+          "amount": "1050.00",
+          "source_line_text": "Club House Charges - April to June-2026   24-07-2026   6455   30-08-2026   1,050.00   1,050.00"
+        },
+        {
+          "amount": "409.00",
+          "source_line_text": "Infrastructure Expenses (Compound wall fencing, fabrication etc.) - (curtain's dry clean, Phase-2 open area painting, fabrication work ,Installed mat's for floor and lifts' )   24-07-2026   6455   30-08-2026   409.00   409.00"
+        }
+      ],
+      "resolution": "line_item_sum",
+      "sha256": "e28592ad8b4dacd03055e0b1ebc46670c83fbfa1162af07bdef33bb226bf63c8",
+      "source_line_text": "Maintenance - April to June-2026 maintenance - calculation: (1720.0 SQFT) * (8.07 per SQFT for 3 Month(s))    24-07-2026   6455   30-08-2026   13,880.00   13,880.00 | Club House Charges - April to June-2026   24-07-2026   6455   30-08-2026   1,050.00   1,050.00 | Infrastructure Expenses (Compound wall fencing, fabrication etc.) - (curtain's dry clean, Phase-2 open area painting, fabrication work ,Installed mat's for floor and lifts' )   24-07-2026   6455   30-08-2026   409.00   409.00",
+      "stated_total": "15339.00",
+      "truncated_source": false
+    },
+    {
+      "amount": "723.00",
+      "candidates": [
+        {
+          "amount": "723.00",
+          "currency": "INR",
+          "label": "Charged Amount",
+          "source_line_text": "Water Bill - Jan to March 2026 Water Bill  07-06-2026  6320  02-07-2026  723.00  723.00",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "723.00",
+          "currency": "INR",
+          "label": "Amount",
+          "source_line_text": "Water Bill - Jan to March 2026 Water Bill  07-06-2026  6320  02-07-2026  723.00  723.00",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "723.00",
+          "currency": "INR",
+          "label": "Total Amount Received",
+          "source_line_text": "Total Amount Received  \u20b9  723.00",
+          "valid_from": null,
+          "valid_through": null
+        }
+      ],
+      "confidence": "0.97",
+      "currency": "INR",
+      "disagreement": null,
+      "image_id": "image_09",
+      "line_items": [
+        {
+          "amount": "723.00",
+          "source_line_text": "Water Bill - Jan to March 2026 Water Bill  07-06-2026  6320  02-07-2026  723.00  723.00"
+        }
+      ],
+      "resolution": "line_item_sum",
+      "sha256": "e0e74e14425d923ff8a5c6db26ec6f4f26ee4697bfd257e414ba05c947a75ba8",
+      "source_line_text": "Water Bill - Jan to March 2026 Water Bill  07-06-2026  6320  02-07-2026  723.00  723.00",
+      "stated_total": "723.00",
+      "truncated_source": false
+    },
+    {
+      "amount": "79679.26",
+      "candidates": [
+        {
+          "amount": "72045.00",
+          "currency": "INR",
+          "label": "Sub Total",
+          "source_line_text": "Sub Total 72,045.00",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "1513.13",
+          "currency": "INR",
+          "label": "CGST2.5 (2.5%)",
+          "source_line_text": "CGST2.5 (2.5%) 1,513.13",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "1513.13",
+          "currency": "INR",
+          "label": "SGST2.5 (2.5%)",
+          "source_line_text": "SGST2.5 (2.5%) 1,513.13",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "2304.00",
+          "currency": "INR",
+          "label": "CGST20 (20%)",
+          "source_line_text": "CGST20 (20%) 2,304.00",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "2304.00",
+          "currency": "INR",
+          "label": "SGST20 (20%)",
+          "source_line_text": "SGST20 (20%) 2,304.00",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "79679.26",
+          "currency": "INR",
+          "label": "Total",
+          "source_line_text": "Total \u20b979,679.26",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "79679.26",
+          "currency": "INR",
+          "label": "Balance Due",
+          "source_line_text": "Balance Due \u20b979,679.26",
+          "valid_from": null,
+          "valid_through": null
+        }
+      ],
+      "confidence": "0.97",
+      "currency": "INR",
+      "disagreement": null,
+      "image_id": "image_10",
+      "line_items": [],
+      "resolution": "literal_total",
+      "sha256": "c90f98caf0877083e471fd47dace772f83d4782037cf112e97c63f79a10ea8cf",
+      "source_line_text": "Total \u20b979,679.26",
+      "stated_total": null,
+      "truncated_source": false
+    },
+    {
+      "amount": "3650.00",
+      "candidates": [
+        {
+          "amount": "3650.00",
+          "currency": "INR",
+          "label": "Total Bill Amount",
+          "source_line_text": "Total Bill Amount: 3650.00",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "3650.00",
+          "currency": "INR",
+          "label": "Amount Payable",
+          "source_line_text": "Amount Payable: 3650.00",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "0.00",
+          "currency": "INR",
+          "label": "Amount Paid",
+          "source_line_text": "Amount Paid: 0.00",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "3650.00",
+          "currency": "INR",
+          "label": "Balance",
+          "source_line_text": "Balance: 3650.00",
+          "valid_from": null,
+          "valid_through": null
+        }
+      ],
+      "confidence": "0.9",
+      "currency": "INR",
+      "disagreement": null,
+      "image_id": "image_11",
+      "line_items": [],
+      "resolution": "labelled_final_total",
+      "sha256": "795e000d48428c97748e8af370cb02b604bec88cc52ec8930f38dc744624e886",
+      "source_line_text": "Amount Payable: 3650.00",
+      "stated_total": "3650.00",
+      "truncated_source": true
+    },
+    {
+      "amount": "33.50",
+      "candidates": [
+        {
+          "amount": "28.50",
+          "currency": "USD",
+          "label": "Ride Distance: 12.3 miles",
+          "source_line_text": "Ride Distance: 12.3 miles                  $28.50",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "5.00",
+          "currency": "USD",
+          "label": "Airport Surcharge",
+          "source_line_text": "Airport Surcharge                          $5.00",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "33.50",
+          "currency": "USD",
+          "label": "Subtotal",
+          "source_line_text": "Subtotal:                                  $33.50",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "0.00",
+          "currency": "USD",
+          "label": "Tax",
+          "source_line_text": "Tax:                                        $0.00",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "33.50",
+          "currency": "USD",
+          "label": "Total",
+          "source_line_text": "Total:                                      $33.50",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "40.00",
+          "currency": "USD",
+          "label": "Cash Paid",
+          "source_line_text": "Cash Paid:                                  $40.00",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "6.50",
+          "currency": "USD",
+          "label": "Change",
+          "source_line_text": "Change:                                     $6.50",
+          "valid_from": null,
+          "valid_through": null
+        }
+      ],
+      "confidence": "0.98",
+      "currency": "USD",
+      "disagreement": null,
+      "image_id": "image_12",
+      "line_items": [
+        {
+          "amount": "28.50",
+          "source_line_text": "Ride Distance: 12.3 miles                  $28.50"
+        },
+        {
+          "amount": "5.00",
+          "source_line_text": "Airport Surcharge                          $5.00"
+        }
+      ],
+      "resolution": "line_item_sum",
+      "sha256": "e10b0123e66d512d82f6c431fb741053b336627b89b9d9a138071ac6980a14ff",
+      "source_line_text": "Ride Distance: 12.3 miles                  $28.50 | Airport Surcharge                          $5.00",
+      "stated_total": "33.50",
+      "truncated_source": false
+    },
+    {
+      "amount": "2298",
+      "candidates": [
+        {
+          "amount": "699",
+          "currency": "INR",
+          "label": "DailyObjects Mumbai City Tote Bag",
+          "source_line_text": "DailyObjects Mumbai City Tote Bag 1 unit \u20b9699",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "1599",
+          "currency": "INR",
+          "label": "Ivory - Navy All Time Tote Bag",
+          "source_line_text": "Ivory - Navy All Time Tote Bag 1 unit \u20b91,599",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "2298",
+          "currency": "INR",
+          "label": "Item Total (2 items)",
+          "source_line_text": "Item Total (2 items) \u20b92,298",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "2298",
+          "currency": "INR",
+          "label": "Total paid",
+          "source_line_text": "Total paid \u20b92,298",
+          "valid_from": null,
+          "valid_through": null
+        }
+      ],
+      "confidence": "0.98",
+      "currency": "INR",
+      "disagreement": null,
+      "image_id": "image_13",
+      "line_items": [
+        {
+          "amount": "699",
+          "source_line_text": "DailyObjects Mumbai City Tote Bag 1 unit \u20b9699"
+        },
+        {
+          "amount": "1599",
+          "source_line_text": "Ivory - Navy All Time Tote Bag 1 unit \u20b91,599"
+        }
+      ],
+      "resolution": "line_item_sum",
+      "sha256": "1ae54b378a9556d94b753093ba80e7117caf86fab4d3fe11ec84e3dd2f6d6dd8",
+      "source_line_text": "DailyObjects Mumbai City Tote Bag 1 unit \u20b9699 | Ivory - Navy All Time Tote Bag 1 unit \u20b91,599",
+      "stated_total": "2298",
+      "truncated_source": false
+    },
+    {
+      "amount": "4543.00",
+      "candidates": [
+        {
+          "amount": "4593.00",
+          "currency": "INR",
+          "label": "TOTAL",
+          "source_line_text": "TOTAL 4593 00",
+          "valid_from": null,
+          "valid_through": null
+        }
+      ],
+      "confidence": "0.78",
+      "currency": "INR",
+      "disagreement": {
+        "item_sum": "4543.00",
+        "reason": "item_sum_disagrees_with_stated_total",
+        "stated_total": "4593.00",
+        "stated_total_source_line": "TOTAL 4593 00"
+      },
+      "image_id": "image_14",
+      "line_items": [
+        {
+          "amount": "1500.00",
+          "source_line_text": "Sam han - 1500 00"
+        },
+        {
+          "amount": "724.00",
+          "source_line_text": "moov spray - 724 00"
+        },
+        {
+          "amount": "796.00",
+          "source_line_text": "Axe oil - 796 00"
+        },
+        {
+          "amount": "550.00",
+          "source_line_text": "stayfree - 550 00"
+        },
+        {
+          "amount": "303.00",
+          "source_line_text": "3 stayfree - 303 00"
+        },
+        {
+          "amount": "670.00",
+          "source_line_text": "Benadryl - 670 00"
+        }
+      ],
+      "resolution": "line_item_sum",
+      "sha256": "bf88e4aa35e6f36304cbf76bf6f505f32b04466bfd5f7df693fcb3ebe8a3e2c1",
+      "source_line_text": "Sam han - 1500 00 | moov spray - 724 00 | Axe oil - 796 00 | stayfree - 550 00 | 3 stayfree - 303 00 | Benadryl - 670 00",
+      "stated_total": "4593.00",
+      "truncated_source": false
+    },
+    {
+      "amount": "9968.00",
+      "candidates": [
+        {
+          "amount": "9580.00",
+          "currency": "INR",
+          "label": "Air Travel and related charges - Total(Incl Taxes)",
+          "source_line_text": "Air Travel and related charges 996425 9,124.00 0.00 9,124.00 0.00 0.00 2.50 228.00 2.50 228.00 0 0.00 9,580.00",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "388.00",
+          "currency": "INR",
+          "label": "Airport Charges - Total(Incl Taxes)",
+          "source_line_text": "Airport Charges 0.00 388.00 388.00 0.00 0.00 0.00 0.00 0.00 0.00 0 0.00 388.00",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "9968.00",
+          "currency": "INR",
+          "label": "Grand Total (Incl Taxes)",
+          "source_line_text": "Grand Total 9,124.00 388.00 9,512.00 0.00 228.00 228.00 0.00 9,968.00",
+          "valid_from": null,
+          "valid_through": null
+        }
+      ],
+      "confidence": "0.97",
+      "currency": "INR",
+      "disagreement": null,
+      "image_id": "image_15",
+      "line_items": [],
+      "resolution": "labelled_final_total",
+      "sha256": "0c0fe3d79e670f2b423bbb2aafc0b5601d3eb4e659ac64058cd189abf7792ee1",
+      "source_line_text": "Grand Total 9,124.00 388.00 9,512.00 0.00 228.00 228.00 0.00 9,968.00",
+      "stated_total": "9,968.00",
+      "truncated_source": false
+    },
+    {
+      "amount": "393.22",
+      "candidates": [
+        {
+          "amount": "333.24",
+          "currency": "INR",
+          "label": "Charging Amount (base)",
+          "source_line_text": "996749 12.58 kWh 26.49 /kWh 03/09/2026, 12:35:10 am 00:15:26 (HH:MM:SS) 333.24",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "29.99",
+          "currency": "INR",
+          "label": "CGST 9%",
+          "source_line_text": "CGST 9 % 29.99",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "29.99",
+          "currency": "INR",
+          "label": "SGST 9%",
+          "source_line_text": "SGST 9 % 29.99",
+          "valid_from": null,
+          "valid_through": null
+        },
+        {
+          "amount": "393.22",
+          "currency": "INR",
+          "label": "Total",
+          "source_line_text": "Total 393.22",
+          "valid_from": null,
+          "valid_through": null
+        }
+      ],
+      "confidence": "0.97",
+      "currency": "INR",
+      "disagreement": null,
+      "image_id": "image_16",
+      "line_items": [
+        {
+          "amount": "333.24",
+          "source_line_text": "996749 12.58 kWh 26.49 /kWh 03/09/2026, 12:35:10 am 00:15:26 (HH:MM:SS) 333.24"
+        },
+        {
+          "amount": "29.99",
+          "source_line_text": "CGST 9 % 29.99"
+        },
+        {
+          "amount": "29.99",
+          "source_line_text": "SGST 9 % 29.99"
+        }
+      ],
+      "resolution": "line_item_sum",
+      "sha256": "2665cf731a861ddb217be5b8082fbd390850a7a98feec018519b6fda0b30b4f8",
+      "source_line_text": "996749 12.58 kWh 26.49 /kWh 03/09/2026, 12:35:10 am 00:15:26 (HH:MM:SS) 333.24 | CGST 9 % 29.99 | SGST 9 % 29.99",
+      "stated_total": "393.22",
+      "truncated_source": false
+    }
+  ],
+  "method": "Anthropic transcription plus deterministic date-window and line-item resolution",
+  "schema_version": 3
+}
